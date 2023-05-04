@@ -5,7 +5,7 @@ This is a basic game when I use the library Pygame of Python.
 Game consist in touch with a bar an ball and this rebot. just use colors, events to move the keyboard keys and use coordinates for the screen. 
 
 ### How does the game work?
-1. Install library pygama
+1. Install library pygame
 ```python
     pip install pygame
 ```
